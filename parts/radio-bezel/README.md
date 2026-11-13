@@ -4,6 +4,8 @@ Licensed CC BY-SA 4.0 (see the repository [LICENSE](../../LICENSE)). Credit: 50t
 
 The photos below show the bezel holding a **Pioneer DMH-W4660NEX** head unit.
 
+Also on Printables: [https://www.printables.com/model/1912244-nissan-370z-double-din-head-unit-bezel](https://www.printables.com/model/1912244-nissan-370z-double-din-head-unit-bezel)
+
 - **Fits (model years / trim):** TBD
 - **Recommended material:** TBD
 - **Print settings (layer height, infill, supports, orientation):** TBD

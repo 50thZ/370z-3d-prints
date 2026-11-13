@@ -18,6 +18,10 @@ Each part folder also has preview renders (JPEG) and, where available, photos of
 
 Fitment (model years/trim), recommended material, and print settings for each part: **TBD**. Interior and engine-bay parts can see high cabin temperatures, so use a heat-resistant filament such as ASA or PETG rather than PLA unless noted otherwise.
 
+## Also on
+
+- Radio bezel on Printables: [https://www.printables.com/model/1912244-nissan-370z-double-din-head-unit-bezel](https://www.printables.com/model/1912244-nissan-370z-double-din-head-unit-bezel)
+
 ## License
 
 Unless stated otherwise, everything in this repository is licensed under **[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE)**.
