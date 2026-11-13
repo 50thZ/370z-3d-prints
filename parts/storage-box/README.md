@@ -21,8 +21,8 @@ The cavity is deep enough for an iPhone Plus or smaller and a pair of sunglasses
 
 Print-ready (top level):
 
-- `370z-hinge-box-aftermarket-bezel` (3MF and STL)
-- `370z-hinge-box-curved-door-aftermarket-bezel` (3MF and STL)
+- `370z-hinge-box-aftermarket-bezel` (3MF and STL): the box
+- `370z-hinge-box-curved-door-aftermarket-bezel` (3MF and STL): the curved door, a separate part you print and attach
 
 Source only (STEP, in `source/`): hinge box, curved door, flat door, flat door without Z, and open box. Print-ready exports of the flat-door and open-box variants are not published yet. Use the STEP files and slice them yourself in the meantime.
 
@@ -32,12 +32,13 @@ Files marked `source` are editable originals. The top-level files are print-read
 
 | Item | Qty | Notes |
 |---|---|---|
-| #8 x 3 in. star-drive trim-head finish screw (3 to 3-1/8 in.) | 2 | Attaches the door to the box (hinged versions only). |
+| #8 x 3 in. star-drive trim-head **finish** screw | 2 | Attaches the door to the box (hinged versions only). |
 | 6 mm x 2 mm round magnets | 4 | Glued into the box cavity and the door so the door clasps shut. Hinged versions only. |
 | Self-adhesive felt (optional, recommended) | - | Lines the cavity and stops items from rattling. |
 
 Notes:
 
+- **Use #8 finishing screws.** Other sizes will not work. These were the smallest screws I found that create enough tension to hold the flip-down door open.
 - The recess where the screw head sits may need to be hollowed out a little. Some of my prints worked as-is and some did not, so test-fit before you assemble.
 - Check magnet polarity before gluing so the door and box attract.
 
@@ -52,8 +53,8 @@ Same as the [radio bezel](../radio-bezel), except for infill (do **not** use the
 | Nozzle / layer height | 0.4 mm / 0.2 mm |
 | Temperatures | 250-260 C nozzle, 100-105 C bed |
 | Infill | Grid, 15% |
-| Supports | TBD |
-| Orientation | TBD |
+| Supports | Yes |
+| Orientation | Default (as imported) |
 | Print time | About 16-18 hours total |
 
 **Tip: print the cavity in two halves.** Slice the box cavity in half, print the two sections, and join them (glue, or tape around the outside).
