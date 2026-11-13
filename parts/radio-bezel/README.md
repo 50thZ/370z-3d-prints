@@ -23,7 +23,7 @@ Pan head screws, about 1 inch long, #6 or #8 (size to be confirmed).
 | Setting | Value |
 |---|---|
 | Printer | Creality K1 Max (enclosed) |
-| Material | ASA (Polymaker, Jet Black; confirm brand) |
+| Material | ASA (Polymaker, Jet Black) |
 | Nozzle / layer height | 0.4 mm / 0.2 mm |
 | Nozzle / bed temperature | 250-260 C (start at 255) / 100-105 C |
 | Speed | 150-200 mm/s, outer walls 100 mm/s |
@@ -39,7 +39,7 @@ Pan head screws, about 1 inch long, #6 or #8 (size to be confirmed).
 
 ## Notes
 - The lower supports in this design are thin and may snap during install. It installs solid without screwing them in, so they are optional.
-- Files: print-ready 3MF and STL. The editable source (STEP) for this part is not published yet.
+- Files: print-ready 3MF and STL, plus the editable STEP source in [`source/`](source).
 
 ## Photos
 
