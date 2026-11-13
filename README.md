@@ -16,7 +16,7 @@ Print-ready 3MF/STL files are included, along with editable source files (STEP, 
 
 Each part folder also has preview renders (JPEG) and, where available, photos of the real printed and installed part. The flat-door and open-box storage box variants are STEP source only for now; a print-ready export is TBD.
 
-Fitment (model years/trim), recommended material, and print settings for each part: **TBD**. Interior and engine-bay parts can see high cabin temperatures, so use a heat-resistant filament such as ASA or PETG rather than PLA unless noted otherwise.
+Fitment, recommended material, and print settings are in each part's README. They are filled in for the radio bezel and still **TBD** for the other parts. Interior and engine-bay parts can see high cabin temperatures, so use a heat-resistant filament such as ASA or PETG rather than PLA unless noted otherwise.
 
 ## Also on
 

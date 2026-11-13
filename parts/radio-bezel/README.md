@@ -1,4 +1,4 @@
-# radio bezel
+# Nissan 370Z Double-DIN Head Unit Bezel
 
 Licensed CC BY-SA 4.0 (see the repository [LICENSE](../../LICENSE)). Credit: 50th Z.
 
@@ -6,13 +6,40 @@ The photos below show the bezel holding a **Pioneer DMH-W4660NEX** head unit.
 
 Also on Printables: [https://www.printables.com/model/1912244-nissan-370z-double-din-head-unit-bezel](https://www.printables.com/model/1912244-nissan-370z-double-din-head-unit-bezel)
 
-- **Fits (model years / trim):** TBD
-- **Recommended material:** TBD
-- **Print settings (layer height, infill, supports, orientation):** TBD
-- **Install notes / hardware needed:** TBD
-- **Changelog:** TBD
+A direct replacement for the factory cubby that lets you install a shallow-depth double-DIN head unit.
 
-Files marked `source` are editable originals (STEP/Fusion). The top-level files are print-ready.
+## Fit
+- **Tested on:** 2020 Nissan 370Z 50th Anniversary Edition (Bose, no navigation)
+- **Other model years:** should fit any 370Z year (untested)
+- **Head unit:** requires a shallow-depth double-DIN unit (photos show a Pioneer DMH-W4660NEX)
+- **Result:** solid, no wiggle, no rattle, no fitment issues
+
+## Hardware (6 screws)
+Pan head screws, about 1 inch long, #6 or #8 (size to be confirmed).
+- 4 screws secure the head unit to the bezel (2 per side)
+- 2 screws secure the bezel to the factory trim (1 per side, at the factory mounting points above the A/C vents)
+
+## Print settings
+| Setting | Value |
+|---|---|
+| Printer | Creality K1 Max (enclosed) |
+| Material | ASA (Polymaker, Jet Black; confirm brand) |
+| Nozzle / layer height | 0.4 mm / 0.2 mm |
+| Nozzle / bed temperature | 250-260 C (start at 255) / 100-105 C |
+| Speed | 150-200 mm/s, outer walls 100 mm/s |
+| Fans | Part fan off for the first 3 layers, then 10% max. Aux and chamber fans off. |
+| Infill | Grid 15% (about 12 h), or Gyroid 40% for extra strength (about 16 h; not required) |
+| Supports | Required |
+| Orientation | Upright, as exported |
+
+## Finishing (optional)
+- Acetone smoothing softens the layer lines but leaves a glossy finish.
+- For a smooth, paint-ready finish: acetone smoothing, sand with 80, 120, and 400 grit, filler primer, wet sand, body filler, wet sand again, then three coats of spray paint. It takes patience but looks great.
+- Acetone is flammable and its fumes are harmful, so work outdoors or with strong ventilation.
+
+## Notes
+- The lower supports in this design are thin and may snap during install. It installs solid without screwing them in, so they are optional.
+- Files: print-ready 3MF and STL. The editable source (STEP) for this part is not published yet.
 
 ## Photos
 
