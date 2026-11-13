@@ -9,7 +9,7 @@ Print-ready 3MF/STL files are included, along with editable source files (STEP, 
 
 | Part | Folder | Print-ready | Source |
 |---|---|---|---|
-| Radio bezel | [`parts/radio-bezel`](parts/radio-bezel) | 3MF, STL | STEP |
+| Radio bezel | [`parts/radio-bezel`](parts/radio-bezel) | 3MF, STL | TBD |
 | Storage box (hinge box, aftermarket bezel) | [`parts/storage-box`](parts/storage-box) | 3MF, STL (hinge box, curved-door hinge box) | STEP (all variants: hinge box, curved door, flat door with and without Z, open box) |
 | Side skirt T-slot bracket | [`parts/side-skirt-tslot-bracket`](parts/side-skirt-tslot-bracket) | STL | STEP |
 | Wheel center caps (Rays factory wheels) | [`parts/wheel-center-caps`](parts/wheel-center-caps) | 3MF, STL (plain and Z-emblem versions) | STEP |

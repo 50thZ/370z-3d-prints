@@ -39,7 +39,7 @@ Pan head screws, about 1 inch long, #6 or #8 (size to be confirmed).
 
 ## Notes
 - The lower supports in this design are thin and may snap during install. It installs solid without screwing them in, so they are optional.
-- Files: print-ready 3MF and STL, plus the editable STEP source in [`source/`](source).
+- Files: print-ready 3MF and STL. The editable source (STEP) for this part is not published yet.
 
 ## Photos
 
